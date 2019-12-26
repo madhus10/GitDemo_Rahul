@@ -1,0 +1,7 @@
+{
+    "body": "Hey am updating the exiting Comments of Issue 1",
+    "visibility": {
+        "type": "role",
+        "value": "Administrators"
+    }
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
+  <test thread-count="5" verbose="0" name="RestAPI(failed)">
+    <classes>
+      <class name="Suite1.Basics_GMapGetTest">
+        <methods>
+          <include name="getData"/>
+          <include name="getDataGoogleAPI"/>
+        </methods>
+      </class> <!-- Suite1.Basics_GMapGetTest -->
+    </classes>
+  </test> <!-- RestAPI(failed) -->
+</suite> <!-- Failed suite [Suite] -->

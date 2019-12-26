@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9492" started-at="2019-12-19T00:45:32 IST" finished-at="2019-12-19T00:45:42 IST">
+    <groups>
+    </groups>
+    <test name="RestAPI" duration-ms="9492" started-at="2019-12-19T00:45:32 IST" finished-at="2019-12-19T00:45:42 IST">
+      <class name="Suite1.Basics8_AddBookExternalJsonFileTest">
+        <test-method status="PASS" signature="getData()[pri:0, instance:Suite1.Basics8_AddBookExternalJsonFileTest@3c41ed1d]" name="getData" is-config="true" duration-ms="0" started-at="2019-12-19T00:45:32 IST" finished-at="2019-12-19T00:45:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method status="PASS" signature="postdataAddBookExternalJsonFile()[pri:0, instance:Suite1.Basics8_AddBookExternalJsonFileTest@3c41ed1d]" name="postdataAddBookExternalJsonFile" duration-ms="467" started-at="2019-12-19T00:45:39 IST" finished-at="2019-12-19T00:45:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postdataAddBookExternalJsonFile -->
+      </class> <!-- Suite1.Basics8_AddBookExternalJsonFileTest -->
+      <class name="Suite1.Basics7_AddAndDeleteTest">
+        <test-method status="PASS" signature="getData()[pri:0, instance:Suite1.Basics7_AddAndDeleteTest@54d9d12d]" name="getData" is-config="true" duration-ms="4" started-at="2019-12-19T00:45:32 IST" finished-at="2019-12-19T00:45:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method status="PASS" signature="postdataAddAndDeleteBook(java.lang.String, java.lang.String)[pri:0, instance:Suite1.Basics7_AddAndDeleteTest@54d9d12d]" name="postdataAddAndDeleteBook" duration-ms="308" started-at="2019-12-19T00:45:39 IST" data-provider="BookData" finished-at="2019-12-19T00:45:39 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sudharahhhadre]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[896523145]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postdataAddAndDeleteBook -->
+        <test-method status="PASS" signature="postdataAddAndDeleteBook(java.lang.String, java.lang.String)[pri:0, instance:Suite1.Basics7_AddAndDeleteTest@54d9d12d]" name="postdataAddAndDeleteBook" duration-ms="252" started-at="2019-12-19T00:45:39 IST" data-provider="BookData" finished-at="2019-12-19T00:45:40 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sudharasinghrajraaji]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[896523145]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postdataAddAndDeleteBook -->
+        <test-method status="PASS" signature="postdataAddAndDeleteBook(java.lang.String, java.lang.String)[pri:0, instance:Suite1.Basics7_AddAndDeleteTest@54d9d12d]" name="postdataAddAndDeleteBook" duration-ms="252" started-at="2019-12-19T00:45:40 IST" data-provider="BookData" finished-at="2019-12-19T00:45:40 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sudharadasravi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[896523145]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postdataAddAndDeleteBook -->
+      </class> <!-- Suite1.Basics7_AddAndDeleteTest -->
+      <class name="Suite1.Basics1_GMapPostTest">
+        <test-method status="PASS" signature="getData()[pri:0, instance:Suite1.Basics1_GMapPostTest@702657cc]" name="getData" is-config="true" duration-ms="24" started-at="2019-12-19T00:45:32 IST" finished-at="2019-12-19T00:45:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method status="PASS" signature="postdataGoogleAPI()[pri:0, instance:Suite1.Basics1_GMapPostTest@702657cc]" name="postdataGoogleAPI" duration-ms="340" started-at="2019-12-19T00:45:40 IST" finished-at="2019-12-19T00:45:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postdataGoogleAPI -->
+      </class> <!-- Suite1.Basics1_GMapPostTest -->
+      <class name="Suite1.Basics4_GMapPostXMLTest">
+        <test-method status="PASS" signature="getData()[pri:0, instance:Suite1.Basics4_GMapPostXMLTest@43bc63a3]" name="getData" is-config="true" duration-ms="8" started-at="2019-12-19T00:45:32 IST" finished-at="2019-12-19T00:45:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method status="PASS" signature="postdataGoogleAPIXML()[pri:0, instance:Suite1.Basics4_GMapPostXMLTest@43bc63a3]" name="postdataGoogleAPIXML" duration-ms="188" started-at="2019-12-19T00:45:40 IST" finished-at="2019-12-19T00:45:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postdataGoogleAPIXML -->
+      </class> <!-- Suite1.Basics4_GMapPostXMLTest -->
+      <class name="Suite1.Basics3_GMapPostDeleteTest">
+        <test-method status="PASS" signature="getData()[pri:0, instance:Suite1.Basics3_GMapPostDeleteTest@38425407]" name="getData" is-config="true" duration-ms="0" started-at="2019-12-19T00:45:32 IST" finished-at="2019-12-19T00:45:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method status="PASS" signature="postdeltedataGoogleAPI()[pri:0, instance:Suite1.Basics3_GMapPostDeleteTest@38425407]" name="postdeltedataGoogleAPI" duration-ms="348" started-at="2019-12-19T00:45:40 IST" finished-at="2019-12-19T00:45:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postdeltedataGoogleAPI -->
+      </class> <!-- Suite1.Basics3_GMapPostDeleteTest -->
+      <class name="Suite1.Basics5_getAdvancedTest">
+        <test-method status="PASS" signature="getData()[pri:0, instance:Suite1.Basics5_getAdvancedTest@34e9fd99]" name="getData" is-config="true" duration-ms="0" started-at="2019-12-19T00:45:32 IST" finished-at="2019-12-19T00:45:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method status="PASS" signature="getdataGoogleAPIResultValues()[pri:0, instance:Suite1.Basics5_getAdvancedTest@34e9fd99]" name="getdataGoogleAPIResultValues" duration-ms="6335" started-at="2019-12-19T00:45:32 IST" finished-at="2019-12-19T00:45:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getdataGoogleAPIResultValues -->
+      </class> <!-- Suite1.Basics5_getAdvancedTest -->
+      <class name="Suite1.Basics_GMapGetTest">
+        <test-method status="PASS" signature="getData()[pri:0, instance:Suite1.Basics_GMapGetTest@6a6cb05c]" name="getData" is-config="true" duration-ms="0" started-at="2019-12-19T00:45:32 IST" finished-at="2019-12-19T00:45:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method status="PASS" signature="getDataGoogleAPI()[pri:0, instance:Suite1.Basics_GMapGetTest@6a6cb05c]" name="getDataGoogleAPI" duration-ms="870" started-at="2019-12-19T00:45:41 IST" finished-at="2019-12-19T00:45:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDataGoogleAPI -->
+      </class> <!-- Suite1.Basics_GMapGetTest -->
+    </test> <!-- RestAPI -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,56 @@
+23:21:32.534 [main] DEBUG Suis.Basics1_GMapPostTest - Started Suite1.Basics1_GMapPostTest
+23:21:32.596 [main] INFO  Suis.Basics1_GMapPostTest -  TestCases.Basics1_GMapPostTest Poperty File is been loaded
+23:21:32.596 [main] DEBUG Suis.Basics3_GMapPostDeleteTest - Started Suite1.Basics3_GMapPostDeleteTest
+23:21:32.612 [main] DEBUG Suis.Basics4_GMapPostXMLTest - Started Suite1.Basics4_GMapPostXMLTest
+23:21:32.612 [main] DEBUG Suis.Basics5_getAdvancedTest - Started Suite1.Basics5_getAdvancedTest
+23:21:32.612 [main] DEBUG Suis.Basics7_AddAndDeleteTest - Started Suite1.Basics7_AddAndDeleteTest
+23:21:32.612 [main] DEBUG Suis.Basics8_AddBookExternalJsonFileTest - Started Suite1.Basics8_AddBookExternalJsonFileTest
+23:21:32.612 [main] DEBUG Suis.Basics_GMapGetTest - Started Suite1.Basics_GMapGetTest
+23:21:43.150 [main] INFO  Suis.Basics5_getAdvancedTest - Size of the status array is : 20
+23:21:43.166 [main] INFO  Suis.Basics5_getAdvancedTest - Name in 0   index is : 
+23:21:43.244 [main] INFO  Suis.Basics5_getAdvancedTest - Sydney
+23:21:43.244 [main] INFO  Suis.Basics5_getAdvancedTest - Name in 1   index is : 
+23:21:43.259 [main] INFO  Suis.Basics5_getAdvancedTest - ibis Sydney Darling Harbour
+23:21:43.259 [main] INFO  Suis.Basics5_getAdvancedTest - Name in 2   index is : 
+23:21:43.275 [main] INFO  Suis.Basics5_getAdvancedTest - Novotel Sydney on Darling Harbour
+23:21:43.275 [main] INFO  Suis.Basics5_getAdvancedTest - Name in 3   index is : 
+23:21:43.306 [main] INFO  Suis.Basics5_getAdvancedTest - Oaks Goldsbrough Apartments
+23:21:43.306 [main] INFO  Suis.Basics5_getAdvancedTest - Name in 4   index is : 
+23:21:43.322 [main] INFO  Suis.Basics5_getAdvancedTest - The Grace Hotel
+23:21:43.322 [main] INFO  Suis.Basics5_getAdvancedTest - Name in 5   index is : 
+23:21:43.337 [main] INFO  Suis.Basics5_getAdvancedTest - QT Sydney
+23:21:43.337 [main] INFO  Suis.Basics5_getAdvancedTest - Name in 6   index is : 
+23:21:43.353 [main] INFO  Suis.Basics5_getAdvancedTest - The Sebel Quay West Suites Sydney
+23:21:43.353 [main] INFO  Suis.Basics5_getAdvancedTest - Name in 7   index is : 
+23:21:43.369 [main] INFO  Suis.Basics5_getAdvancedTest - Fraser Suites Sydney
+23:21:43.369 [main] INFO  Suis.Basics5_getAdvancedTest - Name in 8   index is : 
+23:21:43.400 [main] INFO  Suis.Basics5_getAdvancedTest - Four Seasons Sydney
+23:21:43.400 [main] INFO  Suis.Basics5_getAdvancedTest - Name in 9   index is : 
+23:21:43.416 [main] INFO  Suis.Basics5_getAdvancedTest - PARKROYAL Darling Harbour
+23:21:43.416 [main] INFO  Suis.Basics5_getAdvancedTest - Name in 10   index is : 
+23:21:43.431 [main] INFO  Suis.Basics5_getAdvancedTest - Radisson Hotel and Suites Sydney
+23:21:43.431 [main] INFO  Suis.Basics5_getAdvancedTest - Name in 11   index is : 
+23:21:43.462 [main] INFO  Suis.Basics5_getAdvancedTest - Sydney Harbour YHA - The Rocks
+23:21:43.462 [main] INFO  Suis.Basics5_getAdvancedTest - Name in 12   index is : 
+23:21:43.478 [main] INFO  Suis.Basics5_getAdvancedTest - Amora Hotel Jamison Sydney
+23:21:43.478 [main] INFO  Suis.Basics5_getAdvancedTest - Name in 13   index is : 
+23:21:43.509 [main] INFO  Suis.Basics5_getAdvancedTest - The Little Snail Restaurant
+23:21:43.509 [main] INFO  Suis.Basics5_getAdvancedTest - Name in 14   index is : 
+23:21:43.525 [main] INFO  Suis.Basics5_getAdvancedTest - Adina Apartment Hotel Sydney Darling Harbour
+23:21:43.525 [main] INFO  Suis.Basics5_getAdvancedTest - Name in 15   index is : 
+23:21:43.541 [main] INFO  Suis.Basics5_getAdvancedTest - Hotel Swissôtel Sydney
+23:21:43.541 [main] INFO  Suis.Basics5_getAdvancedTest - Name in 16   index is : 
+23:21:43.572 [main] INFO  Suis.Basics5_getAdvancedTest - The Star Grand Residences
+23:21:43.572 [main] INFO  Suis.Basics5_getAdvancedTest - Name in 17   index is : 
+23:21:43.603 [main] INFO  Suis.Basics5_getAdvancedTest - Harbour Rocks Hotel Sydney - MGallery by Sofitel
+23:21:43.603 [main] INFO  Suis.Basics5_getAdvancedTest - Name in 18   index is : 
+23:21:43.619 [main] INFO  Suis.Basics5_getAdvancedTest - Sofitel Sydney Wentworth
+23:21:43.619 [main] INFO  Suis.Basics5_getAdvancedTest - Name in 19   index is : 
+23:21:43.634 [main] INFO  Suis.Basics5_getAdvancedTest - Sydney
+23:21:43.634 [main] DEBUG Suis.Basics5_getAdvancedTest - Completed Suite1.Basics5_getAdvancedTest
+23:21:43.978 [main] INFO  Suis.Basics8_AddBookExternalJsonFileTest - Successfully added the ID : sudharasinghravirajujain896523145
+23:21:44.212 [main] INFO  Suis.Basics8_AddBookExternalJsonFileTest - Successfully deleted the ID : sudharasinghravirajujain896523145
+23:21:44.212 [main] DEBUG Suis.Basics8_AddBookExternalJsonFileTest - Completed Suite1.Basics8_AddBookExternalJsonFileTest
+23:21:44.478 [main] INFO  Suis.Basics7_AddAndDeleteTest - Successfully added the ID : sudharahhhadre896523145
+23:21:44.634 [main] INFO  Suis.Basics7_AddAndDeleteTest - Successfully deleted the ID : sudharahhhadre896523145
+23:21:44.634 [main] DEBUG Suis.Basics7_AddAndDeleteTest - Completed Suite1.Basics7_AddAndDeleteTest

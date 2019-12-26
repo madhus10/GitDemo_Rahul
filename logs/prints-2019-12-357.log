@@ -1,0 +1,93 @@
+11:53:04.720 [main] INFO  Suis.Basics5_getAdvancedTest - Fraser Suites Sydney
+11:53:04.872 [main] INFO  Suis.Basics5_getAdvancedTest - Name in 8   index is : 
+11:53:04.904 [main] INFO  Suis.Basics5_getAdvancedTest - Four Seasons Sydney
+11:53:04.904 [main] INFO  Suis.Basics5_getAdvancedTest - Name in 9   index is : 
+11:53:04.944 [main] INFO  Suis.Basics5_getAdvancedTest - PARKROYAL Darling Harbour
+11:53:04.944 [main] INFO  Suis.Basics5_getAdvancedTest - Name in 10   index is : 
+11:53:04.960 [main] INFO  Suis.Basics5_getAdvancedTest - Radisson Hotel and Suites Sydney
+11:53:04.960 [main] INFO  Suis.Basics5_getAdvancedTest - Name in 11   index is : 
+11:53:04.972 [main] INFO  Suis.Basics5_getAdvancedTest - Sydney Harbour YHA - The Rocks
+11:53:04.976 [main] INFO  Suis.Basics5_getAdvancedTest - Name in 12   index is : 
+11:53:04.984 [main] INFO  Suis.Basics5_getAdvancedTest - Amora Hotel Jamison Sydney
+11:53:04.984 [main] INFO  Suis.Basics5_getAdvancedTest - Name in 13   index is : 
+11:53:04.996 [main] INFO  Suis.Basics5_getAdvancedTest - The Little Snail Restaurant
+11:53:04.996 [main] INFO  Suis.Basics5_getAdvancedTest - Name in 14   index is : 
+11:53:05.012 [main] INFO  Suis.Basics5_getAdvancedTest - Adina Apartment Hotel Sydney Darling Harbour
+11:53:05.012 [main] INFO  Suis.Basics5_getAdvancedTest - Name in 15   index is : 
+11:53:05.028 [main] INFO  Suis.Basics5_getAdvancedTest - Hotel Swissôtel Sydney
+11:53:05.028 [main] INFO  Suis.Basics5_getAdvancedTest - Name in 16   index is : 
+11:53:05.028 [main] INFO  Suis.Basics5_getAdvancedTest - The Star Grand Residences
+11:53:05.028 [main] INFO  Suis.Basics5_getAdvancedTest - Name in 17   index is : 
+11:53:05.056 [main] INFO  Suis.Basics5_getAdvancedTest - Harbour Rocks Hotel Sydney - MGallery by Sofitel
+11:53:05.056 [main] INFO  Suis.Basics5_getAdvancedTest - Name in 18   index is : 
+11:53:05.068 [main] INFO  Suis.Basics5_getAdvancedTest - Sofitel Sydney Wentworth
+11:53:05.068 [main] INFO  Suis.Basics5_getAdvancedTest - Name in 19   index is : 
+11:53:05.080 [main] INFO  Suis.Basics5_getAdvancedTest - Sydney
+11:53:05.080 [main] DEBUG Suis.Basics5_getAdvancedTest - Completed Suite1.Basics5_getAdvancedTest
+11:53:05.340 [main] INFO  Suis.Basics8_AddBookExternalJsonFileTest - Successfully added the ID : sudharasinghravirajujain896523145
+11:53:05.580 [main] INFO  Suis.Basics8_AddBookExternalJsonFileTest - Successfully deleted the ID : sudharasinghravirajujain896523145
+11:53:05.580 [main] DEBUG Suis.Basics8_AddBookExternalJsonFileTest - Completed Suite1.Basics8_AddBookExternalJsonFileTest
+11:53:05.776 [main] INFO  Suis.Basics7_AddAndDeleteTest - Successfully added the ID : sudharahhhadre896523145
+11:53:05.920 [main] INFO  Suis.Basics7_AddAndDeleteTest - Successfully deleted the ID : sudharahhhadre896523145
+11:53:05.920 [main] DEBUG Suis.Basics7_AddAndDeleteTest - Completed Suite1.Basics7_AddAndDeleteTest
+11:53:06.100 [main] INFO  Suis.Basics7_AddAndDeleteTest - Successfully added the ID : sudharasinghrajraaji896523145
+11:53:06.224 [main] INFO  Suis.Basics7_AddAndDeleteTest - Successfully deleted the ID : sudharasinghrajraaji896523145
+11:53:06.224 [main] DEBUG Suis.Basics7_AddAndDeleteTest - Completed Suite1.Basics7_AddAndDeleteTest
+11:53:06.388 [main] INFO  Suis.Basics7_AddAndDeleteTest - Successfully added the ID : sudharadasravi896523145
+11:53:06.536 [main] INFO  Suis.Basics7_AddAndDeleteTest - Successfully deleted the ID : sudharadasravi896523145
+11:53:06.536 [main] DEBUG Suis.Basics7_AddAndDeleteTest - Completed Suite1.Basics7_AddAndDeleteTest
+11:53:06.544 [main] INFO  Suis.Basics3_GMapPostDeleteTest - HOST Information: http://216.10.245.166
+11:53:06.768 [main] INFO  Suis.Basics3_GMapPostDeleteTest - 2ae5ad9d8b40179f219719f39f3f8608
+11:53:06.968 [main] DEBUG Suis.Basics3_GMapPostDeleteTest - Completed Suite1.Basics3_GMapPostDeleteTest
+11:53:07.393 [main] INFO  Suis.Basics4_GMapPostXMLTest - OK
+11:53:07.397 [main] DEBUG Suis.Basics4_GMapPostXMLTest - Completed Suite1.Basics4_GMapPostXMLTest
+11:53:07.545 [main] INFO  Suis.Basics1_GMapPostTest - Post Request Passed
+11:53:07.545 [main] DEBUG Suis.Basics1_GMapPostTest - Completed Suite1.Basics1_GMapPostTest
+11:53:07.549 [main] INFO  Suis.Basics_GMapGetTest - HOST Information: https://maps.googleapis.com
+11:59:04.783 [main] DEBUG Suis.Basics3_GMapPostDeleteTest - Started Suite1.Basics3_GMapPostDeleteTest
+11:59:04.935 [main] INFO  Suis.Basics3_GMapPostDeleteTest - HOST Information: http://216.10.245.166
+11:59:14.929 [main] INFO  Suis.Basics3_GMapPostDeleteTest - fb38bce9bf5efb4ddf96756330c11259
+11:59:15.186 [main] DEBUG Suis.Basics3_GMapPostDeleteTest - Completed Suite1.Basics3_GMapPostDeleteTest
+23:25:16.130 [main] DEBUG Suis.Basics7_AddAndDeleteTest - Started Suite1.ExcelDrivenAdBook
+23:25:24.110 [main] INFO  Suis.Basics7_AddAndDeleteTest - Successfully added the ID : dafsdfsdf345fgffg
+23:26:21.149 [main] DEBUG Suis.Basics7_AddAndDeleteTest - Started Suite1.ExcelDrivenAdBook
+23:26:24.900 [main] INFO  Suis.Basics7_AddAndDeleteTest - Successfully added the ID : dafsdfsdf345fgffg
+23:28:13.357 [main] DEBUG Suis.Basics7_AddAndDeleteTest - Started Suite1.ExcelDrivenAdBook
+23:28:17.161 [main] INFO  Suis.Basics7_AddAndDeleteTest - Successfully added the ID : dafsdfsdf345fgffg
+23:30:58.898 [main] DEBUG Suis.Basics7_AddAndDeleteTest - Started Suite1.ExcelDrivenAdBook
+23:31:02.696 [main] INFO  Suis.Basics7_AddAndDeleteTest - Successfully added the ID : dafsdfsdf345fgffg
+23:32:11.045 [main] DEBUG Suis.Basics7_AddAndDeleteTest - Started Suite1.ExcelDrivenAdBook
+23:32:14.911 [main] INFO  Suis.Basics7_AddAndDeleteTest - Successfully added the ID : dafsdfsdf345fgffg
+23:32:38.684 [main] DEBUG Suis.Basics7_AddAndDeleteTest - Started Suite1.ExcelDrivenAdBook
+23:32:42.427 [main] INFO  Suis.Basics7_AddAndDeleteTest - Successfully added the ID : dafsdfsdf345fgffg
+23:34:50.883 [main] DEBUG Suis.Basics7_AddAndDeleteTest - Started Suite1.ExcelDrivenAdBook
+23:34:55.182 [main] INFO  Suis.Basics7_AddAndDeleteTest - Successfully added the ID : dafsdfsdf345fgffg
+23:36:09.697 [main] DEBUG Suis.Basics7_AddAndDeleteTest - Started Suite1.ExcelDrivenAdBook
+23:36:13.462 [main] INFO  Suis.Basics7_AddAndDeleteTest - Successfully added the ID : dafsdfsdf345fgffg
+23:39:52.279 [main] DEBUG Suis.Basics7_AddAndDeleteTest - Started Suite1.ExcelDrivenAdBook
+23:40:40.742 [main] DEBUG Suis.Basics7_AddAndDeleteTest - Started Suite1.ExcelDrivenAdBook
+23:40:44.577 [main] INFO  Suis.Basics7_AddAndDeleteTest - Successfully added the ID : sudharahhhadre896523145
+23:40:44.826 [main] INFO  Suis.Basics7_AddAndDeleteTest - Successfully deleted the ID : sudharahhhadre896523145
+23:40:44.826 [main] DEBUG Suis.Basics7_AddAndDeleteTest - Completed Suite1.ExcelDrivenAdBook
+00:08:44.276 [main] DEBUG Suis.Basics7_AddAndDeleteTest - Started Suite1.AddBook_DynamicPayload
+00:08:50.831 [main] INFO  Suis.Basics7_AddAndDeleteTest - Successfully added the ID : sudharahhhadre896523145
+00:08:51.068 [main] INFO  Suis.Basics7_AddAndDeleteTest - Successfully deleted the ID : sudharahhhadre896523145
+00:08:51.068 [main] DEBUG Suis.Basics7_AddAndDeleteTest - Completed Suite1.AddBook_DynamicPayload
+00:11:56.231 [main] DEBUG Suis.Basics7_AddAndDeleteTest - Started Suite1.AddBook_DynamicPayload
+00:29:17.161 [main] DEBUG Suis.Basics7_AddAndDeleteTest - Started Suite1.AddBook_DynamicPayload
+00:31:43.568 [main] DEBUG Suis.Basics7_AddAndDeleteTest - Started Suite1.AddBook_DynamicPayload
+00:31:47.473 [main] INFO  Suis.Basics7_AddAndDeleteTest - Successfully added the ID : sudharahhhadre896523145
+00:31:47.677 [main] INFO  Suis.Basics7_AddAndDeleteTest - Successfully deleted the ID : sudharahhhadre896523145
+00:31:47.677 [main] DEBUG Suis.Basics7_AddAndDeleteTest - Completed Suite1.AddBook_DynamicPayload
+00:34:29.311 [main] DEBUG Suis.Basics7_AddAndDeleteTest - Started Suite1.AddBook_DynamicPayloadXML
+00:42:00.445 [main] DEBUG Suis.Basics7_AddAndDeleteTest - Started Suite1.AddBook_DynamicPayloadXML
+00:45:02.333 [main] DEBUG Suis.Basics7_AddAndDeleteTest - Started Suite1.AddBook_DynamicPayloadXML
+00:48:43.336 [main] DEBUG Suis.Basics7_AddAndDeleteTest - Started Suite1.AddBook_DynamicPayloadXML
+01:06:42.492 [main] DEBUG Suis.Basics7_AddAndDeleteTest - Started Suite1.AddBook_DynamicPayloadXML
+01:19:29.566 [main] DEBUG Suis.Basics7_AddAndDeleteTest - Started Suite1.AddBook_DynamicPayloadXML
+01:20:33.035 [main] DEBUG Suis.Basics7_AddAndDeleteTest - Started Suite1.AddBook_DynamicPayloadXML
+01:21:36.914 [main] DEBUG Suis.Basics7_AddAndDeleteTest - Started Suite1.AddBook_DynamicPayloadXML
+01:22:22.965 [main] DEBUG Suis.Basics7_AddAndDeleteTest - Started Suite1.AddBook_DynamicPayloadXML
+01:25:34.944 [main] DEBUG Suis.Basics7_AddAndDeleteTest - Started Suite1.AddBook_DynamicPayloadXML
+01:26:14.607 [main] DEBUG Suis.Basics7_AddAndDeleteTest - Started Suite1.AddBook_DynamicPayloadXML
+01:31:04.018 [main] DEBUG Suis.Basics7_AddAndDeleteTest - Started Suite1.AddBook_DynamicPayloadXML

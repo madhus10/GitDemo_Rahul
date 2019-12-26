@@ -1,0 +1,7 @@
+{
+    "body": "Hey I am commenting from RES API Issue 1",
+    "visibility": {
+        "type": "role",
+        "value": "Administrators"
+    }
+}

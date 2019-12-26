@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "project": {
+            "key": "RES"
+        },
+        "summary": "Issue 1 for adding Comment ",
+        "description": "Creating my first Bug",
+        "issuetype": {
+            "name": "Bug"	
+        }
+    }
+}

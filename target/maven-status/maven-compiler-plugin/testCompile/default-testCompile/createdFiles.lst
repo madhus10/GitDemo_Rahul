@@ -1,0 +1,16 @@
+POJO\GetCourses.class
+Suite1\Basics8_AddBookExternalJsonFileTest.class
+Suite1\Basics_GMapGetTest.class
+Suite2\Basic10_AuthorizationCode.class
+POJO\Mobile.class
+POJO\Api.class
+Suite1\Basics4_GMapPostXMLTest.class
+POJO\Courses.class
+Suite1\Basics7_AddAndDeleteTest.class
+Suite1\Basics1_GMapPostTest.class
+Suite1\OAuth.class
+Utility\ReUsableMethods.class
+Suite1\Basics5_getAdvancedTest.class
+Suite1\Basics3_GMapPostDeleteTest.class
+POJO\WebAutomation.class
+Suite2\Basics9_JiraPost.class
